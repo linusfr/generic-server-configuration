@@ -1,0 +1,20 @@
+Port 2222
+
+PubkeyAuthentication yes
+
+PermitRootLogin prohibit-password
+PermitEmptyPasswords no
+ChallengeResponseAuthentication no
+HostbasedAuthentication no
+PasswordAuthentication no
+
+PrintLastLog no
+PrintMotd yes
+
+UsePAM yes
+
+PermitUserEnvironment no
+StrictModes yes
+
+MaxAuthTries 3
+LogLevel ERROR
