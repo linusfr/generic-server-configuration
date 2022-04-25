@@ -24,8 +24,8 @@ antigen bundle zsh-users/zsh-autosuggestions
 antigen bundle zsh-users/zsh-syntax-highlighting
 
 # ------------------------  THEME   ------------------------------
-antigen theme af-magic
-# refined, avit, robbyrussell, af-magic
+antigen theme agnoster
+# refined, avit, robbyrussell, af-magic, agnoster
 
 # default editor
 export EDITOR=/usr/bin/vi
