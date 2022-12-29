@@ -23,6 +23,9 @@ antigen bundle rsync
 antigen bundle zsh-users/zsh-autosuggestions
 antigen bundle zsh-users/zsh-syntax-highlighting
 
+## search
+antigen bundle joshskidmore/zsh-fzf-history-search
+
 # ------------------------  THEME   ------------------------------
 antigen theme agnoster
 # refined, avit, robbyrussell, af-magic, agnoster
